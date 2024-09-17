@@ -7,7 +7,7 @@
   - [Configurar el servicio en Linux](#configurar-el-servicio-en-linux)
   
 Para conectarse por SSH a un equipo, se deben cumplir los siguientes requisitos:
-- Que el servicio de SSH esté encendidos
+- Que el servicio de SSH esté encendido
 - Que el servidor/equipo al que vamos a conectarnos esté disponible
 - Un cliente SSH en nuestro equipo (la mayoría de SOs ya incluyen uno)
   
